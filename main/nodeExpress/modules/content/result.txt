@@ -1,0 +1,2 @@
+Hello this is the result test.txt, worth: $10B 
+subTest.txt, worth: $20B.
